@@ -1,0 +1,4 @@
+#ignore DS_Store files, virtual environment
+Examples/
+Tools/
+venv3/
